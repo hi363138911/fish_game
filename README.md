@@ -1,4 +1,4 @@
-游戏地址：http://www.liangtongzhuo/game1
+游戏地址：http://www.liangtongzhuo.com/game1
 
 ---
 

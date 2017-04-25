@@ -2,7 +2,7 @@
 
 ---
 
-<img src="/Users/liangyabin/Desktop/game1/g.gif">
+<img src="g.gif">
 
 ---
 

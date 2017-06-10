@@ -1,5 +1,4 @@
-游戏地址：http://www.liangtongzhuo.com/other/game1
-
+游戏地址：https://liangtongzhuo.github.io/fish_game/.
 ---
 
 <img src="g.gif">
